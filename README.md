@@ -1,5 +1,6 @@
 # homesberry
 Build your own google home with a raspberry ! Ask your google analytics real time stats,  connect to arduino to create an motion alarm, using Google cloud speech API.
+You can also ask temperature of the room after connecting your raspberry to Arduino.
 This script will also send text using twilio api if anything happened with the motion sensor.
 
 ## Python Version
